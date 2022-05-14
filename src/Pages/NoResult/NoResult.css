@@ -1,0 +1,7 @@
+.noresult {
+  text-align: center;
+}
+.noresult__img {
+  width: 60%;
+  object-fit: contain;
+}

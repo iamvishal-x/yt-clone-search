@@ -1,0 +1,8 @@
+.landing {
+  text-align: center;
+}
+.landing__img {
+  width: 30%;
+  user-select: none;
+  object-fit: contain;
+}
